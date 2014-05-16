@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.005" errors="0" skipped="0" tests="1" name="net.smktarunabhakti.penjualan.AppTest">
+<testsuite failures="0" time="0.003" errors="0" skipped="0" tests="1" name="net.smktarunabhakti.penjualan.AppTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="c:\Program Files (x86)\Java\jdk1.7.0_06\jre\bin"/>
@@ -15,12 +15,12 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="Service Pack 1"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Adit\workshop\aplikasi-penjualan-tb\aplikasi-penjualan-tb"/>
+    <property name="user.dir" value="c:\workshop\aplikasi-penjualan-smktb\aplikasi-penjualan-tb"/>
     <property name="java.runtime.version" value="1.7.0_06-b24"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="c:\Program Files (x86)\Java\jdk1.7.0_06\jre\lib\endorsed"/>
     <property name="os.arch" value="x86"/>
-    <property name="java.io.tmpdir" value="C:\Users\Adit\AppData\Local\Temp\"/>
+    <property name="java.io.tmpdir" value="C:\Users\VAIO\AppData\Local\Temp\"/>
     <property name="line.separator" value="
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
@@ -28,17 +28,17 @@
     <property name="os.name" value="Windows 7"/>
     <property name="classworlds.conf" value="c:/apache-maven-3.2.1/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="c:\Program Files (x86)\Java\jdk1.7.0_06\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;c:\Users\Adit\bin;.;C:\Program Files (x86)\Git\local\bin;C:\Program Files (x86)\Git\mingw\bin;C:\Program Files (x86)\Git\bin;c:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;c:\Program Files (x86)\AMD APP\bin\x86_64;c:\Program Files (x86)\AMD APP\bin\x86;c:\Windows\system32;c:\Windows;c:\Windows\System32\Wbem;c:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;c:\Program Files (x86)\Bitvise SSH Client;c:\apache-maven-3.2.1\bin;c:\Program Files (x86)\Java\jdk1.7.0_06\bin;c:\Program Files\TortoiseGit\bin;.;."/>
+    <property name="java.library.path" value="c:\Program Files (x86)\Java\jdk1.7.0_06\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;c:\Users\VAIO\bin;.;C:\Program Files (x86)\Git\local\bin;C:\Program Files (x86)\Git\mingw\bin;C:\Program Files (x86)\Git\bin;C:\Program Files (x86)\Git\bin;c:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;c:\Windows\system32;c:\Windows;c:\Windows\System32\Wbem;c:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\7-Zip;c:\apache-maven-3.2.1\bin;c:\Program Files (x86)\Java\jdk1.7.0_06\bin;c:\Program Files\TortoiseGit\bin;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="51.0"/>
     <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
     <property name="os.version" value="6.1"/>
-    <property name="user.home" value="C:\Users\Adit"/>
+    <property name="user.home" value="C:\Users\VAIO"/>
     <property name="user.timezone" value="Asia/Bangkok"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.7"/>
     <property name="file.encoding" value="Cp1252"/>
-    <property name="user.name" value="Adit"/>
+    <property name="user.name" value="VAIO"/>
     <property name="java.class.path" value="c:/apache-maven-3.2.1/boot/plexus-classworlds-2.5.1.jar"/>
     <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
     <property name="java.vm.specification.version" value="1.7"/>
@@ -59,7 +59,7 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.desktop" value="windows"/>
-    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
   </properties>
-  <testcase time="0.005" classname="net.smktarunabhakti.penjualan.AppTest" name="testApp"/>
+  <testcase time="0.003" classname="net.smktarunabhakti.penjualan.AppTest" name="testApp"/>
 </testsuite>
